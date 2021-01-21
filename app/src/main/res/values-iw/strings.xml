@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="no_internet_message">" נראה כי חיבור לאינטרנט אינו מקוון בדוק את הגדרות הרשת שלך"</string>
+    <string name="please_wait">אנא המתן</string>
+    <string name="tour_list">רשימת הטיולים</string>
+    <string name="language">שפת האפליקציה</string>
+    <string name="about_us">אודותינו</string>
+    <string name="tour_place_name">" שם טיול מקום"</string>
+    <string name="enter_code_to_download">" הזן קוד להורדה"</string>
+    <string name="preview">" תצוגה מקדימה"</string>
+    <string name="available_in">זמין ב</string>
+    <string name="english_hebrew_arabic">אנגלית - עברית - ערבית</string>
+    <string name="offline_reserve_map">מפת השמורה</string>
+    <string name="gps_localitation">מיקום GPS</string>
+    <string name="videos">וידאו</string>
+    <string name="choose_the_language">" בחר את שפת הטיול"</string>
+    <string name="english_lang">English</string>
+    <string name="txt_satellite">" לוויין"</string>
+    <string name="txt_terrain">אזור</string>
+    <string name="txt_app_lng">בחר את שפת האפליקציה</string>
+    <string name="txt_choose_lng">בחר שפת סיור</string>
+    <string name="getpackage_message">" הזן קוד בן 8 ספרות"</string>
+    <string name="submit">" הגשה"</string>
+    <string name="ifdonthave">הזן קוד בן 8 ספרות</string>
+    <string name="retry">נסה מחדש</string>
+    <string name="view">הפעל</string>
+    <string name="pause">עצור</string>
+    <string name="resume">המשך</string>
+    <string name="download">הורדה מהאינטרנט</string>
+    <string name="cancel">בטל</string>
+    <string name="txt_password_used">הסיסמה אינה תקפה</string>
+    <string name="txt_password_incorrrect">הזן סיסמה נכונה</string>
+    <string name="txt_dwnld_tour_spots">הורד נקודות סיור בחנויות</string>
+    <string name="txt_downloading">מוריד</string>
+    <string name="txt_enable_location">אנא הפעל הרשאות מיקום בהגדרות המכשיר</string>
+</resources>

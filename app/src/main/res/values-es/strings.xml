@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="no_internet_message">La coneccion a Internet parece estar fuera de línea. Por favor revise su coneccion</string>
+    <string name="please_wait">Por favor espere …</string>
+    <string name="tour_list">Lista de Tours</string>
+    <string name="language">Lenguaje</string>
+    <string name="about_us">Sobre nosotros</string>
+    <string name="tour_place_name">Nombre del lugar del tour</string>
+    <string name="enter_code_to_download">Ingrese el código para descargar</string>
+    <string name="preview">Vista previa</string>
+    <string name="available_in">Disponible en</string>
+    <string name="english_hebrew_arabic">Inglés - hebreo - árabe</string>
+    <string name="offline_reserve_map">Mapa de reserva fuera de línea</string>
+    <string name="gps_localitation">localización GPS</string>
+    <string name="videos">Videos</string>
+    <string name="choose_the_language">Elige el idioma del tour.</string>
+    <string name="english_lang">English</string>
+    <string name="txt_satellite">Satélite</string>
+    <string name="txt_terrain">Terreno</string>
+    <string name="txt_app_lng">Por favor seleccione el idioma de la aplicación</string>
+    <string name="txt_choose_lng">Por favor seleccione el idioma del tour</string>
+    <string name="getpackage_message">Ingrese un código de 8 dígitos para obtener este paquete</string>
+    <string name="submit">Enviar</string>
+    <string name="ifdonthave">Por favor ingrese su código de 8 dígitos para descargar el tour</string>
+    <string name="retry">RETIRAR</string>
+    <string name="view">VER</string>
+    <string name="pause">PAUSA</string>
+    <string name="resume">RESUMEN</string>
+    <string name="download">Descargar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="txt_password_used">Contraseña utilizada anteriormente</string>
+    <string name="txt_password_incorrrect">Por favor ingrese la contraseña correcta</string>
+    <string name="txt_dwnld_tour_spots">Por favor descargue los puntos del paquete turístico</string>
+    <string name="txt_downloading">Downloading</string>
+    <string name="txt_enable_location">por favor habilise los permisos de ubicación en la configuración del dispositivo</string>
+</resources>

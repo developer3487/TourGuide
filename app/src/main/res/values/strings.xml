@@ -1,0 +1,80 @@
+<resources>
+    <!--<string name="api_map_key_old">AIzaSyD-iSEaftZseTbv-ttuHYlaB4FIdt_rNq8</string>-->
+    <string name="api_map_key" translatable="false">AIzaSyCPH8IgPCHXD6Qx3DqgdEcLyId_59WtcMU</string>
+    <string name="app_name" translatable="false">Tour Guide</string>
+
+    <string name="please_wait">Please wait…</string>
+
+
+    //channel steup fo rpush notificaiton in android oreo
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+
+    <string name="tour_list">Tour List</string>
+    <string name="language">App Language</string>
+    <string name="about_us">About Us</string>
+    <string name="tour_place_name">Tour Place Name</string>
+    <string name="enter_code_to_download">Enter Code to Download</string>
+    <string name="preview">Preview</string>
+    <string name="available_in">Available in:</string>
+    <string name="english_hebrew_arabic">English - Hebrew - Arabic</string>
+    <string name="offline_reserve_map">Offline Reserve Map</string>
+    <string name="gps_localitation">GPS localitation</string>
+    <string name="videos">Videos</string>
+    <string name="choose_the_language">Choose the tour language</string>
+    <string name="english_lang">English</string>
+    <string name="txt_satellite">Satellite</string>
+    <string name="txt_terrain">Terrain</string>
+    <string name="txt_app_lng">Please select the App language</string>
+    <string name="txt_choose_lng">Please select Tour language</string>
+    <string name="getpackage_message">Enter a 8 digit code to get this package</string>
+    <string name="submit">Submit</string>
+    <string name="ifdonthave">Please enter your 8 digit code to download tour</string>
+    <string name="spanish_lang" translatable="false">Español</string>
+    <string name="hebrew_lang" translatable="false">עברית</string>
+
+    <string name="download_eta_sec" translatable="false">%1$ds left</string>
+    <string name="download_eta_min" translatable="false">%1$dm %2$ds left</string>
+    <string name="download_eta_hrs" translatable="false">%1$dh %2$dm %3$ds left</string>
+    <string name="download_speed_bytes" translatable="false">%1$d B/s</string>
+    <string name="download_speed_kb" translatable="false">%1$s KB/s</string>
+    <string name="download_speed_mb" translatable="false">%1$s MB/s</string>
+    <string name="percent_progress" translatable="false">%1$d%%</string>
+    <string name="retry">RETRY</string>
+    <string name="view">VIEW</string>
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+    <string name="download">Download</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_internet_message">Internet connection appears to be offline. Please check your network connection</string>
+    <string name="region_name">Region name</string>
+    <string name="navigate_negative_button_title">No</string>
+    <string name="toast_region_deleted">deleted</string>
+    <string name="navigate_neutral_button_title">neutral</string>
+    <string name="navigate_title">Dialog</string>
+    <string name="navigate_positive_button">OK</string>
+    <string name="toast_no_regions_yet">No Regions</string>
+    <string name="end_progress_success">end</string>
+    <string name="dialog_negative_button">No</string>
+    <string name="dialog_toast">Test</string>
+    <string name="dialog_positive_button">Yes</string>
+    <string name="dialog_message">Please wait</string>
+    <string name="dialog_title">Downloading</string>
+    <string name="set_region_name_hint">test</string>
+    <string name="download_button_text">Download</string>
+    <string name="list_button_text">List</string>
+    <string name="txt_view">View</string>
+    <string name="txt_download">Download</string>
+    <string name="mapbox_key" translatable="false">pk.eyJ1IjoiZG9jcy1taW5lMzRhIiwiYSI6ImNqbWJsd3FoajBtNmIzbG55YjFoZnY2ZnMifQ.HX04zvmVEkK3TlJSCZn07g</string>
+    <string name="txt_password_used">Password previously used</string>
+    <string name="txt_password_incorrrect">Please enter correct password</string>
+    <string name="txt_dwnld_tour_spots">Please download tour package spots</string>
+
+    <string name="bvp_right">RIGHT</string>
+    <string name="bvp_left">LEFT</string>
+    <string name="volume">Volume: %1$d</string>
+    <string name="brightness">Brightness: %1$d</string>
+    <string name="seconds">%1$d seconds</string>
+    <string name="txt_downloading">Downloading</string>
+    <string name="txt_enable_location">Please enable location permissions in device settings</string>
+</resources>
